@@ -7,7 +7,7 @@ Utilizando JavaScript, as seguintes funcionalidades foram implementadas no formu
 - [ ] Quando a opção 'Maiúsculas' estiver selecionada no campo 'Efeito', todo conteúdo digitado no campo 'Texto' deverá ser exibido no campo 'Modificado' em maiúsculo.
 - [ ] Quando a opção 'Minúsculas' estiver selecionada no campo 'Efeito', todo conteúdo digitado no campo 'Texto' deverá ser exibido no campo 'Modificado' em minúsculo.
 
-## Vitória Reis Sousa
+## Vitória Reis Sousa 3°ano
 
 Métodos úteis de string utilizados: 
 https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Useful_string_methods
